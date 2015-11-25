@@ -12,7 +12,7 @@ registering at the
 [IBM ID registration](https://www.ibm.com/account/profile/us?page=reg)
 page.  You will need the IBM ID to login to BlueMix from the command line.
 
-You will also need to install the `cf` command-line tool, available
+You will also need to the install the `cf` command-line tool, available
 here:
 
 * <https://github.com/cloudfoundry/cli/releases>
